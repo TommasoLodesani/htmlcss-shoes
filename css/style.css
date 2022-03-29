@@ -22,13 +22,6 @@ nav{
     right: 20px;
 }
 
-/* nav ul{
-    text-align: right;
-    padding-top: 20px;
-    padding-right: 20px;
-   
-} */
-
 
 nav ul li{
     display: inline-block;
@@ -42,6 +35,7 @@ nav ul li button{
     background-color: white;
     border: none;
     font-weight: bold;
+    font-family: 'Rubik Mono One', sans-serif;
 
 }
 
