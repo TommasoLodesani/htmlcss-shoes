@@ -11,10 +11,49 @@ body{
 
 /* corpo */
 
+
+/* buttons */
+
+nav{
+    position: absolute;
+    position: fixed;
+    z-index: 10;
+    top: 30px;
+    right: 20px;
+}
+
+/* nav ul{
+    text-align: right;
+    padding-top: 20px;
+    padding-right: 20px;
+   
+} */
+
+
+nav ul li{
+    display: inline-block;
+    padding: 10px;
+    
+}
+
+nav ul li button{
+    padding:15px;
+    border-radius: 50%;
+    background-color: white;
+    border: none;
+    font-weight: bold;
+
+}
+
+
+
+
+/* boxes */
 .box{
     width: 100%;
     height: 100vh;
     position: relative;
+    
 }
 
 .box.rosso{
@@ -47,5 +86,13 @@ img{
     font-size: 30px;
     text-align: center;
    
+}
+
+.text.yellow{
+    color: yellow;
+}
+
+.text.green{
+    color: green;
 }
 
