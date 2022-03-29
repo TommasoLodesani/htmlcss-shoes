@@ -36,6 +36,7 @@ nav ul li button{
     border: none;
     font-weight: bold;
     font-family: 'Rubik Mono One', sans-serif;
+    cursor: pointer;
 
 }
 
