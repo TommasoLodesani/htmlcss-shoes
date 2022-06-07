@@ -15,7 +15,7 @@ body{
 /* buttons */
 
 nav{
-    position: absolute;
+    /* position: absolute; */
     position: fixed;
     z-index: 500;
     top: 30px;
